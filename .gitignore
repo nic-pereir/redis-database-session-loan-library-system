@@ -1,0 +1,16 @@
+# Environment Variable and Secret Files
+.env
+*.env
+!.env.example
+
+# Python cache and compilations
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor/IDE Settings
+.vscode/
+.idea/
+
+# Alembic/Database items that do not need to be uploaded
+*.db
